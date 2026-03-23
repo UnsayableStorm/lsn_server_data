@@ -9,11 +9,19 @@ workshop_id,name
 337774723,(DX11) Eikesters Decorations and more - Part II
 498410560,(DX11) Extra Windows
 821764014,(DX11) Iris Door
+496013740,"(DX11) Spaceballs - Mr. Coffee, Mr. Radar and more"
+2859954174,(MES) Lost Settlements
 540003236,(THYA) Shield HUD Graphics Pack 1%
 1721343031,1x1 Solar Panels Rebuilt
-2036872575,\[MCRN\] PDC Turret with retractable versions -Weapon Core
-1842651359,\[Psycho\] Wheels
-2267007067,\[QoL\] Mechanical Keybinds
+2814647993,[APEX UPDATE] Special Container Replacement - 3.0 Water Mod
+2036872575,[MCRN] PDC Turret with retractable versions -Weapon Core
+1842651359,[Psycho] Wheels
+2267007067,[QoL] Mechanical Keybinds
+2304715504,[QoL] Production Quota
+2687324923,[QoL] Radio Spectrometry
+2310821218,Abandoned Settlements [v2]
+2473174197,ACS Assertive Bunkers
+3180649176,Active Radar update 2024
 1660726401,Adjustable Thruster Multipliers
 3255665422,Akumu Medium Battery
 2880317963,Animation Engine
@@ -31,23 +39,33 @@ workshop_id,name
 2504007075,Assault Weapons Pack WeaponCore REBORN
 1902970975,Assertive Combat Systems
 3155707452,Assertive Combat Systems Dependency
+2391318591,Assertive Loot
+2454475557,Atlantean Transporters
 1843256487,AutoCloseDoors
+2308085590,Autofill Bottles
 657749341,Automatic Ore Pickup
 3163682581,Barbette Cargo Container - Commission
 1475392343,Build Colors
 514062285,Build Info
 1697184408,Build Vision 3.0
+3348895372,Buildable Prototech Frames
 806331071,Camera Panning - rotate camera view (+reset 1st person character view)
 3023485481,Chaotic Spawning Settings
 2115568523,Clean Assembler Tab
+2085051314,Clean Freak
+1337471642,Clean Yo' Visor
+801185519,Colorful Icons
 3687605561,Connector Alignment App
 3234504316,Connectors + Collectors V2
+3147613622,Consolidation Firearms
 3305597322,Conveyor Converter with Two Large Ports
 2371750879,Conveyored Ramp and Stairs
 1516060660,Corruption - PvE Combat - No Hacker
 3654653601,Decorative SN
 3154379105,Defense Shields - v2.2(8)
+2756894170,Definition Extension API
 1259182705,Deuterium Fusion Reactors
+3374340470,Deuterium Processor with Conversion
 3681593285,Docking Connector Camera
 2079688902,Drill +
 2161243333,Dynamic Laser Compression Modular Thrusters
@@ -58,10 +76,13 @@ workshop_id,name
 2751997688,EDP - More Lighting Options
 3383813378,EDP - Thruster Covers
 2303330876,Electro-Hydro-Plasma "Epstein" Drive Thruster's
+2640137506,Elite Dangerous: FSD Supercruise
+3347016415,Emissive Letters & Symbols
 3572727858,Engineered Coffee (the Mod)
-3395097954,Expanse weapons pack - weaponcore \[EWP\]
+3395097954,Expanse weapons pack - weaponcore [EWP]
 3307961153,Extending Ship Ramp
 1370072627,Faction Ownership Helper
+3275566484,Flat Wind Turbine
 3564518607,Food Radar
 2604451892,Forcefield Generators (Hangar Doors)
 3042407155,Fully Retractable Landing Gear Phase Fix
@@ -71,35 +92,54 @@ workshop_id,name
 2611197351,Ganymede Tech - MagLev Landing Gear 2.0
 2564086804,Ganymede Tech - Mod Pack
 3440043209,GFA - Imperial Construction
+1223617082,GPS Distance Helper
 2792506976,Graphene Accessories
 2791555101,Graphene Expanded
 2792646500,Graphene Industrial Pack
 2503712170,Grated Catwalks Expansion
 2417159596,GridPickupMod
+2034225971,Hacking Computer 3.2 - SE 208
 2303516760,High-power Offset Spotlight
 1204806594,High-power Spotlight
+2299281406,HoverEngine (compatible with the WaterMod from Jakaria)
 3575361512,Hud Colors ( Standalone )
 1469072169,HUD Compass
-3225982257,Humanoid's Beam Turret Multitool \[toolcore\]
+3225982257,Humanoid's Beam Turret Multitool [toolcore]
 3454269412,Humanoid's Double Door Airlock Pack
+3567106960,I Can't Believe It's Not Meat
 3685166084,Illuminated Column
-3437940110,IMDC Encounters - \[MES\]
+973526550,Imber Corporation
+3437940110,IMDC Encounters - [MES]
+2183745839,Impossible Images
 2839553181,In Depth LCDs
 445996030,Independent Contractors
+1874524300,InFlightButtons - Klime
+3405330069,Inset Camera - Commission
 2816256212,Inverted Light Panels and Transparent LCDs
+3566504208,JejeServeur - ApexThings - Laboratories
+3500253399,JejeServeur - Clang Kitchen - Apex 1.207 Updated
+1972474988,KK91 - Animated Antennas (Rotating and Blinking) [NEW BLOCK VERSION]
+2936367770,KOLT Command Consoles Revamped
 583021695,LCD Star Wars - Episode IV - Logos & Ads
+3170315974,Leak Finder
 3406372006,Legion Encounters-MES
 603906728,Light Block Improvements - easy control panel access
+2741701803,Long Range Searchlight
 2808567713,Longer Range Search Light AI & Beam
+3625402728,Loot Tables Framework
 3681195960,LSN Graphics Pack
+2302105467,MA Pole Parts
 1881158066,MA Spotlight pack
+1668945384,MA Stackable Wind Turbine
 2023664724,MA WeaponCore Weapons
+2890361564,MADAR
 2617194602,MES Lost Colony Encounters + Frostbite
+3570546394,MiniCo's World Famous Jerky
 1521905890,Modular Encounters Systems
 3383967437,Moonshine Distillery
 3603869710,More LCD Apps (No Pb) - Advanced Cockpit Displays
 1719832915,More Pistons
-2704991190,MorePassages \[WIP\]
+2704991190,MorePassages [WIP]
 3099489876,Nanobot Build and Repair System (Maintained) - Original Resources
 3034634539,New Spawn Pods + Tools (Pack 4 Havoc Industries)
 2773982401,NiteOwl Astro Droids
@@ -109,12 +149,16 @@ workshop_id,name
 2697105687,No HUD Tooltips
 2043339470,NPC Defense Shields Provider
 1555044803,NPC Weapon Upgrades
+3568868741,Ore Detector Range Boosted
 500818376,Paint Gun - realistic painting for survival + special creative features
+1135484957,Parallax Concepts
+946724937,PassageIntersections
 1992435623,Perpetually Perturbed Pirates
+3585978077,"Potato VI-X Fuel the Future, Sustain the Legend."
 1289485324,Projections To Assembler
 3206312968,Prometheus Nanobot Drill and Fill System
 2200960755,Railing Button Panel
-3672452327,RCSP Encounters - \[MES\]
+3672452327,RCSP Encounters - [MES]
 525460808,Reavers: Terror of the Verse
 2718175525,Rebels Lights 1.2.01
 2255171772,Retractable Plasma Accelerator Cannon
@@ -123,6 +167,7 @@ workshop_id,name
 2841920953,Shower Light
 3175774286,Simple Laser Multitools (Now with Turrets)
 1780376231,Sleep Mod
+924113345,Slim Containers — exactly what says on the tin
 2206564401,Slope LCD Panels Redux
 2047022084,Small Grid Assembler
 2309027153,Small Grid Decorative Pack 1
@@ -131,8 +176,10 @@ workshop_id,name
 3566024269,Small Grid Farming: Presented by Sigma Draconis
 3222828421,Small Grid O2H2 Generator
 3174562461,Small Grid Refineries
+2309042603,Small Grid Wasteland Pack
 2315682653,Small Ship & Compact Large Block Production Pack
 1516827689,Smarter Suit
+3415912276,Space Engineers 2 Alpha Release Skybox
 3365172783,Space Suit Powerbank
 371741640,Speed Limit 500
 3141064945,Star Trek Fully Retractable Landing Gear
@@ -159,7 +206,10 @@ workshop_id,name
 3570069622,TSO - Snail Plushie
 3630777356,Useful Suit Warnings by Wellington6012
 3070255556,Vanilla Tool Replacement (ToolCore)
+3030780799,VCZ Elevator v2.0
 3562249355,Vertical (wall) Farm Plot and Inset Farm Plot
+2811647602,Warfare II DLC Additions - WC Edition (16)
+3633905517,Water Tank
 2882369004,WC Handweapons
 3154371364,WeaponCore - 2.5
 1931509062,WeaponCore - Replace Vanilla Weapons +
