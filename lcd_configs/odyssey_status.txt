@@ -1,0 +1,9 @@
+ShowStats
+Panel 0
+Odyssey All Turrets,noheadline,Text:Turrets
+Panel 1
+Odyssey Builders,noheadline,Text:Builders
+Panel 2
+Odyssey Repair Projector,noheadline,Text:Projector
+Panel 3
+Odyssey Drills,noheadline,Text:Drils
