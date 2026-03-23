@@ -1,0 +1,11 @@
+Center Seeds Available to Plant
+ECHO
+InvListNBX {Plant Dropper Grain Special} +seed:14
+InvListNBX {Plant Dropper Special Fruit} +seed:14
+InvListNBX {Plant Dropper Special Veg} +seed:14
+InvListNBX {Plant Dropper Special Mush} +seed:14
+ECHO
+ECHO
+Center Total Seeds Available
+InvListX * +seed -medkit -playerinhibitorblocker -drillinhibitorblocker -jetpackinhibitorblocker
+[FarmLCD]
